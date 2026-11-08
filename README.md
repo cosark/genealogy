@@ -83,6 +83,10 @@ Pin a deployment to a version tag, such as `ghcr.io/mgeurts/genealogy:v1.2.3`. S
 
 This project is open-sourced software licensed under the [MIT license](LICENSE).
 
+## One-Click Deploy
+
+[![Deploy on RepoCloud](https://d16t0pc4846x52.cloudfront.net/deploylobe.svg)](https://repocloud.io/details/Genealogy/)
+
 ## Demo
 
 <a href="https://genealogy.kreaweb.be/" target="_blank">https://genealogy.kreaweb.be/</a>
